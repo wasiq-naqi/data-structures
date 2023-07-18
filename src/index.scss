@@ -1,0 +1,26 @@
+:root {
+  --app-navbar-height: 50px;
+  --app-navbar-padding: 10px;
+  --app-main-height: calc(100% - var(--app-navbar-height));
+  --app-main-padding: 20px 16px;
+
+  // Colors
+  // --app-theme-dark: #1b2c3f;
+  // // --app-theme-primary: #0ab39cd9;
+  // --app-theme-primary: #181a20;
+  // --app-c-dull: #74788d;
+  // --app-c-heighlight: #d7e4ec;
+  // --app-bg-background: #f3f3f4;
+  // --app-btn-light-bg: rgba(116,120,141,.1);
+  // --app-btn-light-hover: #74788d;
+
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+}
